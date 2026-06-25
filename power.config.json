@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "appId": null,
+  "appDisplayName": "NEIRA Travel Calendar",
+  "region": "prod",
+  "environmentId": "8912ecb4-eea8-eefe-8dfd-5b3f329d7d0b",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
